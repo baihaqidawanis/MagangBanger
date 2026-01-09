@@ -426,22 +426,7 @@ Jika ada perubahan produk:
 
 ---
 
-## 📄 File Structure
 
-```
-Magang 2/
-├── main.py                     # Main ETL script (production)
-├── app.py                      # Streamlit web UI (user-friendly)
-├── README.md                   # Documentation (this file)
-├── 11 BANGER NOVEMBER (2).xlsx # Template (bulan lalu)
-├── 12 Lampiran Pendapatan Desember 2025.xlsx  # Input data
-├── 01 251110 Validasi Kode Produk Rekap New.xlsx  # Master produk
-├── 12. BANGER-PELANGGAN-12122025.xlsx  # Data pelanggan
-├── 12. BANGER-OPT-12122025.xlsx        # Data OPT
-└── 12 BANGER DESEMBER ayolah2.xlsx     # Output (hasil ETL)
-```
-
----
 
 ## ✅ Checklist Sebelum Run
 
